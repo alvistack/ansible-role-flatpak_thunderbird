@@ -1,13 +1,13 @@
-# Ansible Role for Thunderbird
+# Ansible Role for Thunderbird with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-thunderbird/master)](https://gitlab.com/alvistack/ansible-role-thunderbird/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-thunderbird.svg)](https://github.com/alvistack/ansible-role-thunderbird/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.thunderbird-blue.svg)](https://galaxy.ansible.com/alvistack/thunderbird)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_thunderbird/master)](https://gitlab.com/alvistack/ansible-role-flatpak_thunderbird/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_thunderbird.svg)](https://github.com/alvistack/ansible-role-flatpak_thunderbird/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_thunderbird.svg)](https://github.com/alvistack/ansible-role-flatpak_thunderbird/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_thunderbird-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_thunderbird)
 
-Ansible Role for Thunderbird Installation.
+Ansible Role for Thunderbird with Flatpak.
 
 ## Requirements
 
