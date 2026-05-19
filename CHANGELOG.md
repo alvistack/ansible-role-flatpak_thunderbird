@@ -1,4 +1,4 @@
-# Ansible Role for Thunderbird
+# Ansible Role for Thunderbird with Flatpak
 
 ## 13.6.0 - TBC
 
